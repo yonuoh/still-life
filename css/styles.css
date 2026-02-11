@@ -1,18 +1,18 @@
 :root {
-    --top-steamerlid: calc(50vw - 234px);
-    --left-steamerlid: calc(50vh + 13px);
+    --top-steamerlid: calc(50vh - 234px);
+    --left-steamerlid: calc(50vw + 13px);
   
-    --top-steamerknob: calc(50vw - 241px);
-    --left-steamerknob: calc(50vh + 115px);
+    --top-steamerknob: calc(50vh - 241px);
+    --left-steamerknob: calc(50vw + 115px);
   
-    --top-steamerbody: calc(50vw - 190px);
-    --left-steamerbody: calc(50vh + 40px);
+    --top-steamerbody: calc(50vh - 190px);
+    --left-steamerbody: calc(50vw + 40px);
   
-    --top-steamerlink: calc(50vw - 48px);
-    --left-steamerlink: calc(50vh + 39px);
+    --top-steamerlink: calc(50vh - 48px);
+    --left-steamerlink: calc(50vw + 39px);
 
-    --top-steamerbase: calc(50vw - 19px);
-    --left-steamerbase: calc(50vh + 40px);
+    --top-steamerbase: calc(50vh - 19px);
+    --left-steamerbase: calc(50vw + 40px);
       
     --top-can1: calc(50vh - 130px);
     --left-can1: calc(50vw - 260px);
@@ -34,15 +34,15 @@ body {
   font-size: 45px;
   letter-spacing: -0.05em;
   position: absolute;
-  top: calc(50vw - 65px);
-  left: calc(50vh - 272px);
+  top: calc(50vh - 70px);
+  left: calc(50vw - 270px);
   background-image: linear-gradient(
     to left, 
     #00112a,
     #001145);
   background-clip: text;
   color: transparent;
-  scale: 0.9;
+  scale: 0.85;
 }
 
 .text2 {
@@ -51,8 +51,8 @@ body {
   font-size: 45px;
   letter-spacing: -0.05em;
   position: absolute;
-  top: calc(50vw - 70px);
-  left: calc(50vh - 90px);
+  top: calc(50vh - 75px);
+  left: calc(50vw - 80px);
   background-image: linear-gradient(
     to left, 
     #00112a, 
@@ -137,8 +137,8 @@ body {
   width: 170px;
   height: 10px;
   position: absolute;
-  top: calc(50vw - 11px);
-  left: calc(50vh + 41px);
+  top: calc(50vh - 11px);
+  left: calc(50vw + 41px);
   border-radius: 15%;
   background-image: linear-gradient(
     to bottom,
