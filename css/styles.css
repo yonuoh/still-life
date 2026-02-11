@@ -28,7 +28,7 @@ body {
   background-color: #e6ddbc;
 }
 
-.cafe1 {
+.can1 .label .cafe {
   display: flex;
   font-family: "Poller One", sans-serif;
   font-size: 45px;
@@ -45,7 +45,7 @@ body {
   scale: 0.85;
 }
 
-.bustelo1 {
+.can1 .label .bustelo {
   display: flex;
   font-family: "Poller One", sans-serif;
   font-size: 45px;
@@ -62,7 +62,7 @@ body {
   scale: 0.85;
 }
 
-.cafe2 {
+.can2 .label .cafe {
   display: flex;
   font-family: "Poller One", sans-serif;
   font-size: 45px;
@@ -78,7 +78,7 @@ body {
   color: transparent;
 }
 
-.bustelo2 {
+.can2 .label .bustelo {
   display: flex;
   font-family: "Poller One", sans-serif;
   font-size: 45px;
