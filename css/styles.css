@@ -28,14 +28,14 @@ body {
   background-color: #e6ddbc;
 }
 
-.text1 {
+.cafe1 {
   display: flex;
   font-family: "Poller One", sans-serif;
   font-size: 45px;
   letter-spacing: -0.05em;
   position: absolute;
   top: calc(50vh - 70px);
-  left: calc(50vw - 270px);
+  left: calc(50vw - 260px);
   background-image: linear-gradient(
     to left, 
     #00112a,
@@ -45,7 +45,24 @@ body {
   scale: 0.85;
 }
 
-.text2 {
+.bustelo1 {
+  display: flex;
+  font-family: "Poller One", sans-serif;
+  font-size: 45px;
+  letter-spacing: -0.05em;
+  position: absolute;
+  top: calc(50vh - 30px);
+  left: calc(50vw - 268px);
+  background-image: linear-gradient(
+    to left, 
+    #00112a,
+    #001145);
+  background-clip: text;
+  color: transparent;
+  scale: 0.85;
+}
+
+.cafe2 {
   display: flex;
   font-family: "Poller One", sans-serif;
   font-size: 45px;
@@ -56,8 +73,23 @@ body {
   background-image: linear-gradient(
     to left, 
     #00112a, 
-    #001186
-  );
+    #001186);
+  background-clip: text;
+  color: transparent;
+}
+
+.bustelo2 {
+  display: flex;
+  font-family: "Poller One", sans-serif;
+  font-size: 45px;
+  letter-spacing: -0.05em;
+  position: absolute;
+  top: calc(50vh - 30px);
+  left: calc(50vw - 80px);
+  background-image: linear-gradient(
+    to left, 
+    #00112a, 
+    #001186);
   background-clip: text;
   color: transparent;
 }
